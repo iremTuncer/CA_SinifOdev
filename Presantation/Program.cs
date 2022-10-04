@@ -22,7 +22,7 @@ namespace Presantation
                 Console.WriteLine(item.Ad + " " + item.Soyad + "  :  " + subject[item.SubjectId].KonuAdı );
             }
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9V3ZbfvS5O2DTpnQli4yPYoSTTcDuOXaZTMz21nwyhLry1quXVp3p3Zmd60WjS+ZB9H7qh3C0hOsZdXeBYPbtw==",
+  "dgSpecHash": "EbSh5+flt41Wt4vsbLg2q7Bus71WzsRB+c/SPwd1GKYvabWiACtEa1miSkxf7o0EeyNwD6doArL5o3LowhK0Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\İrem\\Desktop\\Odevler\\CA_SınıfOdev\\Presantation\\Presantation.csproj",
+  "projectFilePath": "C:\\Users\\İrem\\Desktop\\Odevler\\CA_SinifOdev\\Presantation\\Presantation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\İrem\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\İrem\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
